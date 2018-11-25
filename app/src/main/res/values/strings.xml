@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fact-Z</string>
+    <string name="btnEntrar"> Entrar </string>
+    <string name="txtRNC"> Digite su usuario </string>
+    <string name="txtClave">Digite su clave</string>
+    <string name="txtracion">Ración</string>
+    <string name="txtdifi">Dificultad</string>
+    <string name="txtTIempo">Preparacion</string>
+    <string name="coccion">Cocción</string>
+</resources>
